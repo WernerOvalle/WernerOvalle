@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WernerOvalle
 - 👀 I’m interested in web development
-- 🌱 I’m currently improving my knowledge JS frameworks
+- 🌱 I’m currently improving my knowledge in JS frameworks
 
 <!---
 WernerOvalle/WernerOvalle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
